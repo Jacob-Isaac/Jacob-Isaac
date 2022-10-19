@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Jacob-Isaac
 - 👀 I’m interested in ... Motorsport, Art, SciFi, Bicycle journeys
 - 🌱 I’m currently learning ... React, React-Redux, React-Saga
-- 🚀 I want to learn ... TypeScript, React Native
+- 🚀 I want to learn ... TypeScript, React-query, React Native
 - 📫 How to reach me ... j.nowakowski.jakub@gmail.com
 
 <!---
